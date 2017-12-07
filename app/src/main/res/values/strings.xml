@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="slogan">Learn how to code with us. And remember: Programming is the future! </string>
+    <string name="location">Find us on : 2465 Latham St,Mountain View, CA 94043</string>
+    <string name="companyName">Udacity</string>
+    <string name="contactInfo">Contact info : 650-555-5555</string>
+</resources>

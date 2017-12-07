@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aprende a programar!</string>
+    <string name="udacity">Udacity</string>
+    <string name="location">Encontra-nos em 2465 Latham St,Mountain View,CA 94043</string>
+    <string name="slogan">Aprende a programar connosco.E lembra-te: programar é o futuro!</string>
+    <string name="companyName">Udacity</string>
+    <string name="contactInfo">Contacto : 650-555-555</string>
+</resources>
